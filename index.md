@@ -11,17 +11,20 @@ LeonAI ("we", "our", or "us") operates the Puzzle Competition mobile application
 Anonymous identifier: We assign each user a randomly generated anonymous ID to track game scores and leaderboards. This ID is not linked to your name, email, or any personal information.
 Game data: Scores, game history, and progress are stored and associated with your anonymous ID.
 Advertising data: We use Google AdMob to display ads. AdMob may collect device identifiers and usage data to serve personalized or non-personalized ads, subject to your consent.
+
 3. How We Use Your Information
 
 To operate leaderboards and track competitive scores
 To display advertisements via Google AdMob
 To improve the App
+
 4. Third-Party Services
 
 We use the following third-party services:
 
 Google AdMob — advertising. Privacy Policy
 Google Firebase / Firestore — anonymous authentication and data storage. Privacy Policy
+
 5. Data Retention
 
 Game data associated with your anonymous ID is retained for as long as you use the App. You may request deletion by contacting us.

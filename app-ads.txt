@@ -153,3 +153,4 @@ appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 sharethrough.com, bxzzb1br, RESELLER, d53b998a7bd4ecd2
 anzu.io, 691e95644e633a6eee2567ee, RESELLER, 1c1b7acf4992136c
 pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
+facebook.com, 1632551454397361, DIRECT, c3e20eee3f780d68
